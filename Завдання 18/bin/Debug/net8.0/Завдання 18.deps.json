@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Завдання 18/1.0.0": {
+        "runtime": {
+          "Завдання 18.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Завдання 18/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
